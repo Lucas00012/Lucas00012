@@ -1,22 +1,21 @@
-## Hi there! My name is Lucas Eduardo 👋
+# Hi there! My name is Lucas Eduardo 👋
 <div align="center">
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
 </div>
 
-# About
+## About
 - 🧑🏻 I'm a software developer
 - 💻 Curreently im working with fullstack development
 - ✏️ Student at FATEC-SP
 
 <img src="https://github.com/Lucas00012/Lucas00012/blob/output/github-contribution-grid-snake.svg">
 
-# Information 📊
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=lucas00012&count_private=true&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas00012&theme=tokyonight">
-</div>
+## Contact 
+<a href="https://www.linkedin.com/in/lucasormond" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"></a>
+<a href="mailto:lucaseduardoormond@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"></a>
+<a href="https://wa.me/5511961586651?text=Hi, how are you?" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge"></a>
 
-# Knowledge 📃
+## Knowledge 
 <div>
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -32,8 +31,9 @@
     <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white">
 </div>
 
-# Contact ☎️
-<a href="https://www.linkedin.com/in/lucasormond" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"></a>
-<a href="mailto:lucaseduardoormond@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"></a>
-<a href="https://wa.me/5511961586651?text=Hi, how are you?" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge"></a>
+## 📊 Stats
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=lucas00012&count_private=true&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas00012&theme=tokyonight">
+</div>
 
