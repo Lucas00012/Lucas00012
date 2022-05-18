@@ -1,22 +1,23 @@
 ## Hi there! My name is Lucas Eduardo 👋
-<img style="display:block;margin:20px auto 20px" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
+<div align="center">
+    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
+</div>
 
 # About
 - 🧑🏻 I'm a software developer
 - 💻 Curreently im working with fullstack development
 - ✏️ Student at FATEC-SP
-- ⌨️ Coding is my passion
 
 <img src="https://github.com/Lucas00012/Lucas00012/blob/output/github-contribution-grid-snake.svg">
 
 # Information 📊
-<div style="display:flex;justify-content:space-around;align-items:center;margin-bottom:30px">
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=lucas00012&count_private=true&theme=tokyonight">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas00012&theme=tokyonight">
 </div>
 
 # Knowledge 📃
-<div style="margin-bottom:30px">
+<div>
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
