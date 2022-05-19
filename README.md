@@ -7,7 +7,7 @@
 - 🧑🏻 Software developer
 - 💻 Curreently i'm working with fullstack development
 - 🎓 FATEC-SP
-- 🤙🏻 São Paulo, SP
+- 🛌🏻 São Paulo, SP
 
 <img src="https://github.com/Lucas00012/Lucas00012/blob/output/github-contribution-grid-snake.svg">
 
