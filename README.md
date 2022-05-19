@@ -4,7 +4,7 @@
 </div>
 
 ## About
-- 🧑🏻 I'm a software developer
+- 🧑🏻 Software developer
 - 💻 Curreently i'm working with fullstack development
 - 🎓 FATEC-SP
 - 🤙🏻 São Paulo, SP
