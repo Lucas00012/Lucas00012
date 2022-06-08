@@ -4,10 +4,7 @@
 </div>
 
 ## About
-- 🧑🏻 Software developer
-- 💻 Curreently i'm working with fullstack development
-- 🎓 FATEC-SP
-- 🛌🏻 São Paulo, SP
+I'm a software developer that currently working with fullstack development and studying at FATEC-SP.
 
 <img src="https://github.com/Lucas00012/Lucas00012/blob/output/github-contribution-grid-snake.svg">
 
