@@ -1,7 +1,4 @@
 # Hi there! My name is Lucas Eduardo 👋
-<div align="center">
-    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
-</div>
 
 ## About
 I'm a software developer that currently working with fullstack development and studying at FATEC-SP.  
