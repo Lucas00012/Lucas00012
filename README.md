@@ -1,4 +1,4 @@
-# Hi there! My name is Lucas Eduardo 👋
+## Hi there! My name is Lucas Eduardo 👋
 
 ## About
 I'm a software developer that currently working with fullstack development and studying at FATEC-SP.  
