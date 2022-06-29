@@ -2,8 +2,6 @@
 I'm a software developer that currently working with fullstack development and studying at FATEC-SP.  
 Brazil, São Paulo - SP
 
-<img src="https://github.com/Lucas00012/Lucas00012/blob/output/github-contribution-grid-snake.svg">
-
 ## Contact 
 <a href="https://www.linkedin.com/in/lucasormond" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"></a>
 <a href="mailto:lucaseduardoormond@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"></a>
